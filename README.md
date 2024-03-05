@@ -1,2 +1,1 @@
 # Java-oop-alura
-configs
